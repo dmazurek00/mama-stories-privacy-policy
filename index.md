@@ -75,7 +75,7 @@ This app is not intended for unsupervised use by children.
 
 We may update this Privacy Policy from time to time. The latest version will always be available at:
 
-[PRIVACY_URL]
+https://dmazurek00.github.io/mama-stories-privacy-policy/
 
 ## 12. Contact
 
